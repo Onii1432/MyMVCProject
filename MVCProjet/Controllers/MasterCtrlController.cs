@@ -18,5 +18,11 @@ namespace MVCProjet.Controllers
         {
             return View();
         }
+
+        public class ListModel{
+
+            public int ID { get; set; }
+
+        }
     }
 }
