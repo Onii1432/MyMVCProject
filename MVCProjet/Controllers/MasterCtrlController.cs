@@ -19,12 +19,7 @@ namespace MVCProjet.Controllers
             return View();
         }
 
-        public class ListModel{
-
-            public int ID { get; set; }
-
-        }
-
+        
         //====
         public class ListModel3
         {
