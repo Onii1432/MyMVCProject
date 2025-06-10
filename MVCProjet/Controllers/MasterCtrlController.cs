@@ -24,5 +24,13 @@ namespace MVCProjet.Controllers
             public int ID { get; set; }
 
         }
+
+        //====
+        public class ListModel3
+        {
+
+            public int ID { get; set; }
+
+        }
     }
 }
